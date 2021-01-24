@@ -1,7 +1,7 @@
 <html>
 <head>
-<tittle>
+<body>
 Phan Minh Quan
-</tittle>
+</body>
 </head>
 </html>
